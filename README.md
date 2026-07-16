@@ -155,17 +155,6 @@ ai-study-assistant/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run linter
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
-## 👥 Authors
-
-- Your Name - Initial work
 
 ##  Acknowledgments
 
